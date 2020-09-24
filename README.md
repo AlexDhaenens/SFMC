@@ -1,7 +1,7 @@
 # SFMC Save actions
 SFMC Save actions is a module integrating Salesforce Marketing Cloud (SFMC) into Sitecore forms so you can push data from a Sitecore form into SFMC __without developing code__ and with a __intuitive and integrated UI__ for configuration of the field mapping.
 
-![Image of Yaktocat](./imgs/SFMC2.png)
+![Image of Yaktocat](./imgs/SFMC4.png)
 ## User manual
 Before the data arrives in SFMC, the module requires two steps
 * A one-time setup _by the developer_
